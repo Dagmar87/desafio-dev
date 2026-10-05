@@ -1,0 +1,42 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Testes / cobertura
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+# Arquivos de desenvolvimento local
+.env
+.env.*
+!.env.example
+
+# Arquivos de backup
+*.bak
+*.backup

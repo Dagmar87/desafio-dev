@@ -13,3 +13,4 @@ C:\Users\jdfss\Documents\c#projetos\desafio-dev\obj\Debug\net10.0\refint\desafio
 C:\Users\jdfss\Documents\c#projetos\desafio-dev\obj\Debug\net10.0\desafio-dev.pdb
 C:\Users\jdfss\Documents\c#projetos\desafio-dev\obj\Debug\net10.0\desafio-dev.genruntimeconfig.cache
 C:\Users\jdfss\Documents\c#projetos\desafio-dev\obj\Debug\net10.0\ref\desafio-dev.dll
+C:\Users\jdfss\Documents\c#projetos\desafio-dev\bin\Debug\net10.0\Data\vendas.json
